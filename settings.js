@@ -30,12 +30,12 @@ global.sp = '🔵'
 global.mess = {
     success: 'Takaenda Done!',
     admin: 'you must be admin to use this cmd!',
-    botAdmin: 'zim bot must be admin neh!',
-    owner: 'This cmd is for zim bot owner only',
+    botAdmin: 'Vann bot must be admin neh!',
+    owner: 'This cmd is for Vann bot owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
-    wait: 'wait zim bot processing ',
+    wait: 'wait Vann bot processing ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
